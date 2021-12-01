@@ -1,3 +1,3 @@
 const dotenv = require('dotenv');
 
-dotenv.config({ path: './config/config.env' });
+dotenv.config({ path: './config/app.json' });
